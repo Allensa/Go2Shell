@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(plutil:*)",
+      "Bash(osadecompile:*)",
+      "Bash(cp:*)",
+      "Bash(/tmp/ghostty_newwin.applescript:*)",
+      "Bash(osacompile -o /Volumes/extraA/AllenMoon/WorkSpace/iOS/Go2Shell/Go2Shell_Ghostty_newWin.app/Contents/Resources/Scripts/main.scpt /tmp/ghostty_newwin.applescript)"
+    ]
+  }
+}
